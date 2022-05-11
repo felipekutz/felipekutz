@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Mindsight developmenting HR system
 - 🌱 I’m currently learning Django, Django Rest Framework, CSS, SQL, AWS
 - 👯 I’m looking to collaborate on ...
